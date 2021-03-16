@@ -1,0 +1,44 @@
+.Box-contact {
+    padding-right: 20px;
+    list-style-type: none;
+    margin: 0;
+    margin-top: 2px;
+    width: 20%;
+    background-color: #f1f1f1;
+    height: 100%; 
+    position: relative;
+    float: right;
+ 
+}
+
+.picture-pizza{
+    vertical-align: middle;
+    padding-left: 10px;
+    width: 30px;
+    height: 35px;
+    border-radius: 70%;
+  }
+
+.anuncio{
+    align-self: center;
+    padding-left: 20px;
+    border-radius: 8px;
+    width: 250px;
+    height: 130px;
+}
+
+
+.linea {
+    border-top: 2px solid #c8c5ceec;
+    height: 5px;
+    max-width: 250px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+  }
+
+  .imageslist{
+    width: 25px;
+    height: 25px;
+    padding-left: 10px;
+    border-radius: 70%;
+}

@@ -1,0 +1,118 @@
+
+html{
+    background-color: #f1f1f1;
+}
+ .story {
+     padding:10px 15px;
+     display: flex;
+ }
+ .story .story-item {
+     height: 250px;
+     width: 160px;
+     border-radius: 15px;
+     background: #3e7fff;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
+     color: white;
+     position:relative;
+     font-size:13px;	
+     margin-left: 10px;
+ }  
+ 
+ .story .story-item span {
+     position:absolute;bottom:0;
+     padding:10px 5px; 
+ }
+ 
+ .rounded {
+   background-image:url(https://any.ge/assets/images/favicon-32x32.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   width:32px;
+   height:32px;
+   margin:5px;
+   position:absolute;
+   border-radius:50%;
+    border:3px solid white;
+ }
+
+ .add-post{
+    display: inline-block;
+    width: 800px;
+    height: 100px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0 2px 1px #bfbcc7;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+ }
+
+ .pictureUsuario{
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    border-radius: 70%;
+  }
+
+  .addpost{
+    padding-left: 20px;
+    border-radius: 15px;
+    border: 0;
+    height: 30px;
+    width: 700px;
+    background-color: #f1f1f1;
+  }
+
+
+.option-post{
+    padding-top: 10px;
+    padding-left: 50px;
+    display:inline-block;
+}
+
+.option-post a{
+    text-decoration: none;
+    padding-left: 100px;
+}
+
+.option-post a img{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.posts{
+    display: inline-block;
+    width: 800px;
+    height: 900px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0 2px 1px #bfbcc7;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
+.post-picture{
+    align-self: center;
+    width: 800px;
+    height: 700px;
+    border-radius:5px ;
+}
+
+.options{
+    display: inline-block;
+    width: 700px;
+    height: 30px;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0 2px 1px #bfbcc7;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+}
+
